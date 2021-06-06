@@ -8,4 +8,4 @@ title: "２枚目のスライドにようこそ！"
 git add _posts/0000-01-02-ogiharayusuke.md
 
 
-git add _posts/0000-01-02-ogiharayusuke.m
+git add _posts/0000-01-02-ogiharayusuke.md
